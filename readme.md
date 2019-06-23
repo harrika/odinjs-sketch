@@ -1,6 +1,2 @@
 
-ODIN Javascript
-Etch a Sketch project
-Henry Mukomba Kirya
-
-
+permalink: /index.html
